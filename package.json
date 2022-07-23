@@ -1,0 +1,21 @@
+{
+  "name": "mzheltyshev-weather-cli",
+  "version": "1.0.0",
+  "description": "CLI weather app",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Mikhail Zheltyshev",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
